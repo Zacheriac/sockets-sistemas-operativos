@@ -1,8 +1,3 @@
-# Integrantes - Grupo 15: 
-# -Ronquillo Vega, Luis Stheven
-# -Rojas Suarez, Ana Cristina
-# -Carrasco Alcantara, Maria Alejandra
-
 import socket
 import threading
 import os
