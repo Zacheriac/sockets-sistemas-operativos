@@ -1,5 +1,4 @@
-#  Proyecto Sockets — Sistemas Operativos | Grupo 15
-
+#  Proyecto Sockets — Sistemas Operativos 
 ##  Descripción
 Sistema de comunicación Cliente-Servidor implementado con Sockets 
 en Python. Permite que múltiples clientes se conecten al servidor 
